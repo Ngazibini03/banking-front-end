@@ -1,0 +1,7 @@
+Name: Ngazibini
+Surname: Malawu
+Phone Number: 0736512026
+ID Number: 7604230225080
+Account Number: 883322
+Password: 35789
+Balance: 1800.0
